@@ -23,5 +23,5 @@ public abstract class Creature {
     public static int getMaxHealth() {
         return maxHealth;
     }
-    
+    //test
 }
