@@ -21,5 +21,5 @@ public final class Boar {
     public static int getMaxHealth() {
         return maxHealth;
     }
-    //boar
+    //boar2
 }
